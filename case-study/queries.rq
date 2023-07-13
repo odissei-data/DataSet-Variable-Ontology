@@ -2,7 +2,7 @@
 # 1.1 - What are the columns and their headers of a given dataset?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 PREFIX csvw: 	<http://www.w3.org/ns/csvw#>
 PREFIX rdfs: 	<http://www.w3.org/2000/01/rdf-schema#>
 
@@ -19,7 +19,7 @@ WHERE {
 # 1.2 - How many rows and columns does a given dataset have?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 
 SELECT ?nRows ?nCols
 WHERE { 
@@ -33,7 +33,7 @@ WHERE {
 # 1.3 - What is the data type of each column of a given dataset?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 SELECT ?column ?colLabel ?dataType
@@ -50,7 +50,7 @@ WHERE {
 # 1.4 - Are there any missing values in a given dataset? If yes, what is the format of the missing values?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 
 SELECT ?valueFormat
 WHERE { 
@@ -63,7 +63,7 @@ WHERE {
 # 1.5 - What is the overall completeness of a given dataset?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 
 SELECT ?completeness
 WHERE { 
@@ -76,7 +76,7 @@ WHERE {
 # 1.6 - What is the completeness of each column of a given dataset?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 PREFIX rdfs: 	<http://www.w3.org/2000/01/rdf-schema#>
 
 SELECT ?component ?componentLabel ?componentCompleteness
@@ -93,7 +93,7 @@ WHERE {
 # 2.1 - What are the variables and their label of a given dataset?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 PREFIX csvw: 	<http://www.w3.org/ns/csvw#>
 PREFIX rdfs: 	<http://www.w3.org/2000/01/rdf-schema#>
 
@@ -111,7 +111,7 @@ WHERE {
 # 2.2 - In what other datasets do those variables appear?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 PREFIX csvw: 	<http://www.w3.org/ns/csvw#>
 PREFIX rdfs: 	<http://www.w3.org/2000/01/rdf-schema#>
 
@@ -134,7 +134,7 @@ WHERE {
 # 2.3 - Is there any conceptual relationships between columns of a given dataset?
 ##################################################################################################################################
 
-PREFIX dsv: <http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: <https://w3id.org/dsv-ontology#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 SELECT DISTINCT ?datasetComponent ?componentLabel ?variable ?variableLabel ?topVariable ?topVariableLabel
@@ -167,7 +167,7 @@ WHERE {
 # 2.4 - Which datasets have their rows representing instances of same type?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 PREFIX rdfs: 	<http://www.w3.org/2000/01/rdf-schema#>
 
 SELECT DISTINCT ?dataset2  
@@ -189,7 +189,7 @@ WHERE {
 # 3.1 - Given a certain variable, which column headers are used to represent this variable in the various datasets?
 ##################################################################################################################################
 
-PREFIX dsv: 	<http://www.example.org/datasetVariableOntology/>
+PREFIX dsv: 	<https://w3id.org/dsv-ontology#>
 PREFIX csvw: 	<http://www.w3.org/ns/csvw#>
 PREFIX rdfs: 	<http://www.w3.org/2000/01/rdf-schema#>
 PREFIX var: 	<http://www.example.org/VariablesVocabulary/>
