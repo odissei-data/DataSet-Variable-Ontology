@@ -1,0 +1,98 @@
+@prefix dsv:            <http://www.example.org/datasetVariableOntology/> .
+@prefix csvw:           <http://www.w3.org/ns/csvw#> .
+@prefix rdfs:           <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix var:            <http://www.example.org/VariablesVocabulary/> .
+@prefix xsd:            <http://www.w3.org/2001/XMLSchema#> .
+@prefix wd:             <http://www.wikidata.org/entity/> .
+
+
+###########################################
+# Dataset USA
+###########################################
+
+<http://www.usa-open-data.org/example-aggregated-dataset>           a                               dsv:AggregatedDataset ;
+                                                                    csvw:url                        "https://catalog.data.gov/dataset/nchs-births-and-general-fertility-rates-united-states" ;
+                                                                    dsv:rowsRepresentInstancesOf    wd:Q14819852  ;
+                                                                    dsv:summaryStatistics           [
+                                                                        dsv:numberOfRows                "110"^^xsd:integer ;
+                                                                        dsv:numberOfColumns             "4"^^xsd:integer ;
+                                                                        dsv:completeness                "1.00"^^xsd:float 
+                                                                    ] ;
+                                                                    dsv:datasetSchema               [
+                                                                        dsv:datasetComponent            <http://www.usa-open-data.org/example-aggregated-dataset/column/Year> ,
+                                                                                                        <http://www.usa-open-data.org/example-aggregated-dataset/column/BirthNumber> ,
+                                                                                                        <http://www.usa-open-data.org/example-aggregated-dataset/column/GeneralFertilityRate> ,
+                                                                                                        <http://www.usa-open-data.org/example-aggregated-dataset/column/CrudeBirthRate> 
+                                                                    ] .
+
+###########################################
+# Dataset USA - Columns
+###########################################
+
+<http://www.usa-open-data.org/example-aggregated-dataset/column/Year>                       a                           dsv:DimensionComponent ,
+                                                                                                                        csvw:Column ;
+                                                                                            rdfs:label                  "Year"@en ;
+                                                                                            dsv:componentProperty       <http://www.usa-open-data.org/properties-dictionary/year> ;
+                                                                                            dsv:refersToVariable        var:YearCoverage ;
+                                                                                            dsv:summaryStatistics       [
+                                                                                                dsv:completeness            "1.00"^^xsd:float ;
+                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                            ] .
+
+<http://www.usa-open-data.org/example-aggregated-dataset/column/BirthNumber>                a                           dsv:DimensionComponent ,
+                                                                                                                        csvw:Column ;
+                                                                                            rdfs:label                  "Birth Number"@en ;
+                                                                                            dsv:componentProperty       <http://www.usa-open-data.org/properties-dictionary/birthNumber> ;
+                                                                                            dsv:refersToVariable        var:Birth ;
+                                                                                            dsv:summaryStatistics       [
+                                                                                                dsv:completeness            "1.00"^^xsd:float ;
+                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                            ] .
+
+<http://www.usa-open-data.org/example-aggregated-dataset/column/GeneralFertilityRate>       a                           dsv:DimensionComponent ,
+                                                                                                                        csvw:Column ;
+                                                                                            rdfs:label                  "General Fertility Rate"@en ;
+                                                                                            dsv:componentProperty       <http://www.usa-open-data.org/properties-dictionary/generalFertilityRate> ;
+                                                                                            dsv:refersToVariable        var:FertilityRate ;
+                                                                                            dsv:summaryStatistics       [
+                                                                                                dsv:completeness            "1.00"^^xsd:float ;
+                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                            ] .
+
+<http://www.usa-open-data.org/example-aggregated-dataset/column/CrudeBirthRate>             a                           dsv:DimensionComponent ,
+                                                                                                                        csvw:Column ;
+                                                                                            rdfs:label                  "Crude Birth Rate"@en ;
+                                                                                            dsv:componentProperty       <http://www.usa-open-data.org/properties-dictionary/crudeBirthRate> ;
+                                                                                            dsv:refersToVariable        var:Birth ;
+                                                                                            dsv:summaryStatistics       [
+                                                                                                dsv:completeness            "1.00"^^xsd:float ;
+                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                            ] .
+
+###########################################
+# Dataset USA - Properties
+###########################################
+
+<http://www.usa-open-data.org/properties-dictionary/year>                       a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the year of an event"@en ;
+                                                                                dsv:linksToVariable     var:YearCoverage ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:gYear .
+
+<http://www.usa-open-data.org/properties-dictionary/birthNumber>                a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the number of births"@en ;
+                                                                                dsv:linksToVariable     var:Birth ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+
+<http://www.usa-open-data.org/properties-dictionary/generalFertilityRate>       a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the general fertility rate"@en ;
+                                                                                dsv:linksToVariable     var:FertilityRate ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:float .
+
+<http://www.usa-open-data.org/properties-dictionary/crudeBirthRate>             a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the crude birth rate"@en ;
+                                                                                dsv:linksToVariable     var:Birth ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:float .

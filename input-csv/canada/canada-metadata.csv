@@ -1,0 +1,96 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Pregnancy outcomes (live births, induced abortions, and fetal loss)","13100167","106-9002","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310016701",1;2;3;4;5;19;21,"ARCHIVED -  a cube publicly available but no longer being updated","Annual","1974-01-01","2005-01-01","4",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography, place of residence of females",,""
+"2","Age group",,""
+"3","Pregnancy outcomes",,""
+"4","Characteristics",18,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Nova Scotia, place of residence of females","","4","1","",,
+"1","New Brunswick, place of residence of females","","5","1","",,
+"1","Quebec, place of residence of females","","6","1","",,
+"1","Ontario, place of residence of females","","7","1","",,
+"1","Manitoba, place of residence of females","","8","1","",20,
+"1","Saskatchewan, place of residence of females","","9","1","",,
+"1","Alberta, place of residence of females","","10","1","",,
+"1","British Columbia, place of residence of females","","11","1","",,
+"1","Yukon, place of residence of females","","12","1","",12;14,
+"1","Northwest Territories including Nunavut, place of residence of females","","13","1","",12;14;15,
+"1","Northwest Territories, place of residence of females","","14","1","",12;14;15,
+"1","Nunavut, place of residence of females","","15","1","",15;16;17,
+"1","Unknown province or territory of residence of females","","16","1","",,
+"1","Newfoundland and Labrador, place of residence of females","","2","1","",,
+"1","Prince Edward Island, place of residence of females","","3","1","",,
+"1","Canada, place of residence of females","","1","","",12;13;16;17;20,
+"2","Under 20 years","","2","1","",7,
+"2","20 to 24 years","","7","1","",,
+"2","25 to 29 years","","8","1","",,
+"2","30 to 34 years","","9","1","",,
+"2","35 to 39 years","","10","1","",,
+"2","40 years and over","","11","1","",7,
+"2","Unknown age group","","12","1","",,
+"2","Under 15 years","","3","2","",7,
+"2","15 to 19 years","","4","2","",,
+"2","15 to 17 years","","5","4","",,
+"2","18 to 19 years","","6","4","",,
+"2","All ages","","1","","",6,
+"3","Fetal loss","","4","1","",4;10;17,
+"3","Live births","","2","1","",3;9,
+"3","Induced abortions","","3","1","",5;11;13;16;20,
+"3","Total, pregnancies","","1","","",2;8;13;16;17,
+"4","Number of events","","1","","",,
+"4","Rate per 1,000 females","","2","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3203","Hospital Morbidity Database"
+"3209","Therapeutic Abortion Survey"
+"3231","Vital Statistics - Birth Database"
+"3234","Vital Statistics - Stillbirth Database"
+"3604","Annual Demographic Estimates: Canada, Provinces and Territories"
+
+"Subject Code","Subject Name"
+"13","Health"
+
+"Note ID",Note
+1,"Sources: Statistics Canada, Canadian Vital Statistics, Birth Database and Stillbirth Database; Canadian Institute for Health Information, Hospital Morbidity Database and Therapeutic Abortion Database. The Statistics Canada publication Reproductive Health: Pregnancies and Rates, Canada, 1974-1993 (catalogue no. 82-568-XPB) was a major source of data for the years prior to 1994."
+2,"Pregnancies equal the sum of live births, fetal loss and induced abortions."
+3,"Live birth counts are based on registrations in the Birth Database."
+4,"Fetal loss is the sum of stillbirth registrations in the Stillbirth Database and cases of miscarriages, illegal abortions and unspecified abortions reported in the Hospital Morbidity Database."
+5,"Induced abortion counts are taken from the Therapeutic Abortion Survey that collects information on abortions performed in hospitals and clinics in Canada, as well as on abortions performed on Canadian residents in selected American states, for data years prior to 2004."
+6,"Rates for the "All Ages" group are based on the population of females aged 15 to 49 years. The numerator used in the rate calculation is the total number of events (total pregnancies, live births, induced abortions or fetal loss) occurring to females, regardless of their age."
+7,"Rates for the "Under 20 years" age group are based on the female population aged 14 to 19 years. Rates for the "Under 15 years" age group are based on the female population aged 14 years. Rates for the "40 years and over" age group are based on the female population aged 40 to 44 years."
+8,"Pregnancy rate corresponds to the number of pregnancies per 1,000 females of the same age group."
+9,"Live birth rate corresponds to the number of live births per 1,000 females of the same age group. The live birth rate is also referred to as the fertility rate."
+10,"Fetal loss rate corresponds to the number of fetal losses (stillbirths and hospitalizations for miscarriages) per 1,000 females of the same age group."
+11,"Induced abortion rate corresponds to the number of induced abortions per 1,000 females of the same age group."
+12,"For data years 1974 to 1992, abortion data for the teen subgroups 15 to 17 years and 18 to 19 years are not available for the Yukon and the Northwest Territories. Consequently, these abortion data are not included in the compilation of the teen subgroups at the Canada level. A further consequence is that these data are not included in the teen subgroups for total pregnancies."
+13,"For data year 1991, abortion statistics are available only at the Canada level because of the lack of information on the place of residence for abortions performed in clinics. Consequently, total pregnancy statistics could also only be calculated at the Canada level."
+14,"The number of hospitalizations for miscarriages began to be included in the calculation of fetal loss for the Northwest Territories as of 1994, and for the Yukon as of 1995. Prior to these years, fetal loss for these territories included cases of stillbirths only."
+15,"For data year 1999, counts and rates for Nunavut and the Northwest Territories have been combined. Although Nunavut became a separate territory as of April 1, 1999, not all sources of information (for example, the Hospital Morbidity Database) used in the calculation of pregnancy statistics contained enough information to provide complete and separate data for Nunavut for the 1999 calendar year."
+16,"For 2002 and 2003, Nunavut residents are excluded due to incomplete reporting."
+17,"For 2002 and 2003, hospitalized cases of miscarriages, illegal abortion and unspecified abortions in Nunavut are excluded due to incomplete reporting."
+18,"The following standard symbols are used in this Statistics Canada publication: (..) for figures not available for a specific reference period, (...) for figures not applicable, and (x) for figures suppressed to meet the confidentiality requirements of the Statistics Act."
+19,"Source of population counts used in the calculation of rates: Statistics Canada, Estimates of population, by age group and sex, Canada, provinces and territories, annual (CANSIM table 051-0001). From July 1, 1974 to 1995, estimates are revised intercensal, final intercensal from 1996 to 2000, and final postcensal for 2001 to 2004; and updated postcensal for 2005. The population estimates are updated quarterly. The 2005 population counts used in the Pregnancy Outcomes table were downloaded on February 21, 2008."
+20,"In 2004 and 2005, information on induced abortions performed in clinics in Manitoba was not submitted to the Therapeutic Abortion Survey."
+21,"In 1995, the collection of the data for this survey was transferred from Statistics Canada to the Canadian Institute for Health Information (CIHI). Once the data were collected, they were transferred to Statistics Canada to be released in The Daily, Statistics Canada's main data release vehicle. This process has caused some confusion with the users of the data. Statistics Canada has decided, in consultation with CIHI that the responsibility for disseminating these data should reside with CIHI. This move will bring the Therapeutic Abortion Survey in line with other programs at CIHI. As a result, the 2006 data is the final year therapeutic abortion data will be released by Statistics Canada. For additional information regarding subsequent therapeutic abortion data, please consult the current <a href="http://secure.cihi.ca/cihiweb/dispPage.jsp?cw_page=services_tad_e">CIHI website</a>."
+
+"Correction ID","Correction Date","Correction Note"

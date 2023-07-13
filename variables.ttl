@@ -1,0 +1,66 @@
+@prefix dsv:            <http://www.example.org/datasetVariableOntology/> .
+@prefix csvw:           <http://www.w3.org/ns/csvw#> .
+@prefix rdfs:           <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix var:            <http://www.example.org/VariablesVocabulary/> .
+@prefix xsd:            <http://www.w3.org/2001/XMLSchema#> .
+
+
+###########################################
+# Variables Time Coverage
+###########################################
+
+var:TimeCoverage                    a                   dsv:Variable ;
+                                    rdfs:label          "Time Coverage Variable"@en .
+
+var:YearCoverage                    a                   dsv:Variable ;
+                                    rdfs:label          "Year Coverage Variable"@en ;
+                                    dsv:subVariableOf   var:TimeCoverage .     
+
+###########################################
+# Variables Location
+###########################################          
+
+var:Location                        a                   dsv:Variable ;
+                                    rdfs:label          "Location Variable"@en .
+
+var:GeoLocation                     a                   dsv:Variable ;
+                                    rdfs:label          "Geological Location Variable"@en ;
+                                    dsv:subVariableOf   var:Location .
+
+###########################################
+# Variables Personal Characteristics
+###########################################     
+
+var:PersonalCharacteristics         a                   dsv:Variable ;
+                                    rdfs:label          "Personal Characteristics Variable"@en .
+
+var:Age                             a                   dsv:Variable ;
+                                    rdfs:label          "Age Variable"@en ;
+                                    dsv:subVariableOf   var:PersonalCharacteristics .
+
+var:Gender                          a                   dsv:Variable ;
+                                    rdfs:label          "Gender Variable"@en ;
+                                    dsv:subVariableOf   var:PersonalCharacteristics .
+
+###########################################
+# Variables Fertility
+########################################### 
+
+var:Fertility                       a                   dsv:Variable ;
+                                    rdfs:label          "Fertility Variable"@en .
+
+var:PregnancyOutcome                a                   dsv:Variable ;
+                                    rdfs:label          "Pregnancy Outcomes Variable"@en ;
+                                    dsv:subVariableOf   var:Fertility .
+
+var:Birth                           a                   dsv:Variable ;
+                                    rdfs:label          "Birth Variables"@en ;
+                                    dsv:subVariableOf   var:Fertility .
+
+var:FertilityRate                   a                   dsv:Variable ;
+                                    rdfs:label          "Fertility Rate Variable"@en ;
+                                    dsv:subVariableOf   var:Fertility .
+
+var:LiveBirth                       a                   dsv:Variable ;
+                                    rdfs:label          "Live Birth Variable"@en ;
+                                    dsv:subVariableOf   var:Birth .

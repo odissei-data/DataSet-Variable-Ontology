@@ -1,0 +1,252 @@
+@prefix dsv:            <http://www.example.org/datasetVariableOntology/> .
+@prefix csvw:           <http://www.w3.org/ns/csvw#> .
+@prefix rdfs:           <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix var:            <http://www.example.org/VariablesVocabulary/> .
+@prefix xsd:            <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbpedia-owl:    <http://dbpedia.org/ontology/> .
+@prefix wd:             <http://www.wikidata.org/entity/> .
+
+
+###########################################
+# Dataset Netherlands
+###########################################
+
+<http://www.nl-open-data.org/example-aggregated-dataset>        a                               dsv:AggregatedDataset ;
+                                                                csvw:url                        "https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=37422ned&_theme=62" ;
+                                                                dsv:rowsRepresentInstancesOf    wd:Q14819852 ;
+                                                                dsv:summaryStatistics           [
+                                                                        dsv:numberOfRows                "72"^^xsd:integer ;
+                                                                        dsv:numberOfColumns             "12"^^xsd:integer ;
+                                                                        dsv:completeness                "1.00"^^xsd:float 
+                                                                ] ;
+                                                                dsv:datasetSchema               [
+                                                                        dsv:datasetComponent            <http://www.nl-open-data.org/example-aggregated-dataset/column/perioden> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/totaalLevendGeborenKinderen_1> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/algemeenVruchtbaarheidscijfer_3> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/jongerDan20Jaar_9> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/k_20Tot25Jaar_10> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/k_25Tot30Jaar_11> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/k_30Tot35Jaar_12> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/k_35Tot40Jaar_13> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/k_40Tot45Jaar_14> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/k_45JaarOfOuder_15> ,
+                                                                                                        <http://www.nl-open-data.org/example-aggregated-dataset/column/totaalGeboorten_33> 
+                                                                ] .
+
+
+###########################################
+# Dataset Netherlands - Columns
+###########################################
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/perioden>                                a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "perioden"@nl ;
+                                                                                                        rdfs:comment                    "periods"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/periods> ;
+                                                                                                        dsv:refersToVariable            var:YearCoverage ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/totaalLevendGeborenKinderen_1>           a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "totaalLevendGeborenKinderen_1"@nl ;
+                                                                                                        rdfs:comment                    "total live born children"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/totalLiveBornChildren> ;
+                                                                                                        dsv:refersToVariable            var:LiveBirth ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/algemeenVruchtbaarheidscijfer_3>         a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "algemeenVruchtbaarheidscijfer_3"@nl ;
+                                                                                                        rdfs:comment                    "general fertility rate"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/generalFertilityRate> ;
+                                                                                                        dsv:refersToVariable            var:FertilityRate ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/jongerDan20Jaar_9>                       a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "jongerDan20Jaar_9"@nl ;
+                                                                                                        rdfs:comment                    "younger than 20 years"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/youngerThan20Years> ;
+                                                                                                        dsv:refersToVariable            var:Age ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/k_20Tot25Jaar_10>                        a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "k_20Tot25Jaar_10"@nl ;
+                                                                                                        rdfs:comment                    "20 to 25 years"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/20To25Years> ; # to remove
+                                                                                                        dsv:refersToVariable            var:Age ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/k_25Tot30Jaar_11>                        a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "k_25Tot30Jaar_11"@nl ;
+                                                                                                        rdfs:comment                    "25 to 30 years"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/25To30Years> ;
+                                                                                                        dsv:refersToVariable            var:Age ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/k_30Tot35Jaar_12>                        a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "k_30Tot35Jaar_12"@nl ;
+                                                                                                        rdfs:comment                    "30 to 35 years"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/30To35Years> ;
+                                                                                                        dsv:refersToVariable            var:Age ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/k_35Tot40Jaar_13>                        a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "k_35Tot40Jaar_13"@nl ;
+                                                                                                        rdfs:comment                    "35 to 40 years"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/35To40Years> ;
+                                                                                                        dsv:refersToVariable            var:Age ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/k_40Tot45Jaar_14>                        a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "k_40Tot45Jaar_14"@nl ;
+                                                                                                        rdfs:comment                    "40 to 45 years"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/40To45Years> ;
+                                                                                                        dsv:refersToVariable            var:Age ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/k_45JaarOfOuder_15>                      a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "k_45JaarOfOuder_15"@nl ;
+                                                                                                        rdfs:comment                    "45 years or older"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/45YearsOrOlder> ;
+                                                                                                        dsv:refersToVariable            var:Age ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+<http://www.nl-open-data.org/example-aggregated-dataset/column/totaalGeboorten_33>                      a                               dsv:DimensionComponent ,
+                                                                                                                                        csvw:Column ;
+                                                                                                        rdfs:label                      "totaalGeboorten_33"@nl ;
+                                                                                                        rdfs:comment                    "total births"@en ;
+                                                                                                        dsv:componentProperty           <http://www.nl-open-data.org/properties-dictionary/totalBirths> ;
+                                                                                                        dsv:refersToVariable            var:Birth ;
+                                                                                                        dsv:summaryStatistics           [
+                                                                                                                dsv:completeness                "1.00"^^xsd:float ;
+                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                        ] .
+
+###########################################
+# Dataset Netherlands - Properties
+###########################################
+
+<http://www.nl-open-data.org/properties-dictionary/periods>                     a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the year of an event"@en ;
+                                                                                dsv:linksToVariable     var:YearCoverage ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:gYear .
+
+<http://www.nl-open-data.org/properties-dictionary/totalLiveBornChildren>       a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the number of live births"@en ;
+                                                                                dsv:linksToVariable     var:LiveBirth ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+
+<http://www.nl-open-data.org/properties-dictionary/generalFertilityRate>        a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the general fertility rate"@en ;
+                                                                                dsv:linksToVariable     var:FertilityRate ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:float .
+
+<http://www.nl-open-data.org/properties-dictionary/youngerThan20Years>          a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the age group of the mother"@en ;
+                                                                                owl:propertyChainAxiom          (
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasMother> 
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasAgeGroup> ) ;
+                                                                                dsv:linksToVariable     var:Age ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+
+<http://www.nl-open-data.org/properties-dictionary/20To25Years>                 a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the age group of the mother"@en ;
+                                                                                owl:propertyChainAxiom          (
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasMother> 
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasAgeGroup> ) ;
+                                                                                dsv:linksToVariable     var:Age ;
+                                                                                rdfs:domain             dsv:AggregationGroup ; #new class
+                                                                                rdfs:range              xsd:int .
+
+<http://www.nl-open-data.org/properties-dictionary/25To30Years>                 a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the age group of the mother"@en ;
+                                                                                owl:propertyChainAxiom          (
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasMother> 
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasAgeGroup> ) ;
+                                                                                dsv:linksToVariable     var:Age ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+
+<http://www.nl-open-data.org/properties-dictionary/30To35Years>                 a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the age group of the mother"@en ;
+                                                                                owl:propertyChainAxiom          (
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasMother> 
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasAgeGroup> ) ;
+                                                                                dsv:linksToVariable     var:Age ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+
+<http://www.nl-open-data.org/properties-dictionary/35To40Years>                 a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the age group of the mother"@en ;
+                                                                                owl:propertyChainAxiom          (
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasMother> 
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasAgeGroup> ) ;
+                                                                                dsv:linksToVariable     var:Age ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+
+<http://www.nl-open-data.org/properties-dictionary/40To45Years>                 a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the age group of the mother"@en ;
+                                                                                owl:propertyChainAxiom          (
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasMother> 
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasAgeGroup> ) ;
+                                                                                dsv:linksToVariable     var:Age ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+
+<http://www.nl-open-data.org/properties-dictionary/45YearsOrOlder>              a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the age group of the mother"@en ;
+                                                                                owl:propertyChainAxiom          (
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasMother> 
+                                                                                        <http://www.nl-open-data.org/properties-dictionary/hasAgeGroup> ) ;
+                                                                                dsv:linksToVariable     var:Age ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+
+<http://www.nl-open-data.org/properties-dictionary/totalBirths>                 a                       rdf:Property ;
+                                                                                rdfs:label              "Property defining the number of births"@en ;
+                                                                                dsv:linksToVariable     var:Birth ;
+                                                                                rdfs:domain             var:Birth ;
+                                                                                rdfs:range              xsd:int .
+

@@ -1,0 +1,600 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Geboorte; kerncijfers";"Geboorte; kerncijfers";"37422ned";"Kerncijfers over vruchtbaarheid, levend - en doodgeborenen en 
+meerlingbevallingen naar geslachtsverhouding.";"2022-07-27T02:00:00";"Actualisering";"";"nl";"CBS";"Perjaar";"1950 - 2021";"
+Deze tabel bevat kerncijfers over vruchtbaarheid, levend- en doodgeboren kinderen en meerlingbevallingen naar geslacht. Het betreft de geboorten onder de inwoners van Nederland.
+
+In deze tabel zijn de gegevens uit te splitsen naar de volgende kenmerken:
+- Levend geboren kinderen naar geslacht;
+- Levend geboren kinderen naar leeftijd van de moeder (op 31 december) in leeftijdsgroepen;
+- Levend geboren kinderen naar volgorde van geboorte uit de moeder;
+- Levend geboren kinderen naar burgerlijke staat van de moeder;
+- Levend geboren kinderen naar migratieachtergrond van de moeder;
+- Doodgeboren kinderen naar zwangerschapsduur; 
+- Geboorten: één- en meerlingen;
+- Gemiddeld kindertal per vrouw;
+- Gemiddeld kindertal per man;
+- Gemiddelde leeftijd van de moeder naar volgorde van geboorte uit de moeder;
+- Gemiddelde leeftijd van de vader naar volgorde van geboorte uit de moeder.
+
+Gegevens beschikbaar vanaf: 
+De meeste gegevens zijn beschikbaar vanaf 1950. 
+Uitzonderingen hierop zijn levend geboren kinderen naar migratieachtergrond van de moeder (vanaf 1996), doodgeboren kinderen met een zwangerschapsduur van 24 of meer weken (vanaf 1991), het gemiddeld kindertal per man (vanaf 1996) en de gemiddelde leeftijd van de vader (vanaf 1996). 
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitieve cijfers.
+
+Wijziging per 27 juli 2022:
+De cijfers over 2021 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+In het derde kwartaal van 2023 worden de definitieve cijfers over 2022 in deze publicatie opgenomen. 
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie
+
+1. TOELICHTING
+
+Deze tabel bevat kerncijfers over vruchtbaarheid, levend- en doodgeboren kinderen en meerlingbevallingen naar geslacht. Het betreft de geboorten onder de inwoners van Nederland.
+
+In deze tabel zijn de gegevens uit te splitsen naar de volgende kenmerken:
+- Levend geboren kinderen naar geslacht;
+- Levend geboren kinderen naar leeftijd van de moeder (op 31 december) in leeftijdsgroepen;
+- Levend geboren kinderen naar volgorde van geboorte uit de moeder;
+- Levend geboren kinderen naar burgerlijke staat van de moeder;
+- Levend geboren kinderen naar migratieachtergrond van de moeder;
+- Doodgeboren kinderen naar zwangerschapsduur; 
+- Geboorten: één- en meerlingen;
+- Gemiddeld kindertal per vrouw;
+- Gemiddeld kindertal per man;
+- Gemiddelde leeftijd van de moeder naar volgorde van geboorte uit de moeder;
+- Gemiddelde leeftijd van de vader naar volgorde van geboorte uit de moeder.
+
+Gegevens beschikbaar vanaf: 
+De meeste gegevens zijn beschikbaar vanaf 1950. 
+Uitzonderingen hierop zijn levend geboren kinderen naar migratieachtergrond van de moeder (vanaf 1996), doodgeboren kinderen met een zwangerschapsduur van 24 of meer weken (vanaf 1991), het gemiddeld kindertal per man (vanaf 1996) en de gemiddelde leeftijd van de vader (vanaf 1996). 
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitieve cijfers.
+
+Wijziging per 27 juli 2022:
+De cijfers over 2021 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+In het derde kwartaal van 2023 worden de definitieve cijfers over 2022 in deze publicatie opgenomen. 
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities: 
+
+Doodgeboren kind
+Kind dat na een zwangerschapsduur van ten minste 24 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft vertoond (ademhaling, hartactie, spieractie).
+
+Geboorte
+Bevalling, ongeacht de levensvatbaarheid van het kind of de kinderen.
+
+Gemiddelde leeftijd van de moeder (respectievelijk vader)
+Het rekenkundig gemiddelde van alle leeftijden van vrouwen (respectievelijk mannen) die een levend geboren kind hebben gekregen.
+
+Gemiddeld kindertal per vrouw (respectievelijk man)
+Dit cijfer kan worden opgevat als het gemiddelde aantal kinderen dat een vrouw (respectievelijk man) krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende haar (zijn) leven zouden gelden.
+
+Migratieachtergrond
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+Bij personen met een tweede generatie migratieachtergrond is er ook een onderscheid tussen personen met één of twee in het buitenland geboren ouders.
+
+Persoon met een eerste generatie migratieachtergrond:
+Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.
+
+Persoon met een tweede generatie migratieachtergrond:
+Persoon die in Nederland is geboren en van wie ten minste één ouder in het buitenland is geboren.
+
+Inwoner van Nederland
+Persoon behorende tot de bevolking van Nederland. 
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage. 
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.
+
+Leeftijd
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder (respectievelijk vader).
+Van onbekende vaders is de leeftijd geschat.
+
+Leeftijdsspecifieke vruchtbaarheidscijfers
+Het aantal levend geboren kinderen dat uit vrouwen in een bepaalde leeftijdsgroep in een bepaalde periode wordt geboren gedeeld door het gemiddeld aantal vrouwen in die leeftijdsgroep en periode.
+
+Levend geboren kind
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Meerling
+Twee of meer kinderen die uit dezelfde zwangerschap zijn geboren.
+
+Volgorde van geboorte uit de moeder
+De positie van het kind in de rangorde van levend geboren kinderen uit de moeder.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37201'>Geboorte; kerncijfers vruchtbaarheid, leeftijd moeder, regio</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37744ned'>Levend geboren kinderen; leeftijd moeder, volgorde geboorte uit de moeder</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83307NED'>Vruchtbaarheid; herkomstgroepering moeder en generatie</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82055NED'>Levend geboren kinderen; huishoudenssamenstelling en migratieachtergrond</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82056NED'>Levend geboren kinderen; huishoudens en regio</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81019NED'>Levend geboren kinderen; leeftijd vader (op 31 december), rangnummer moeder</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82607NED'>Doodgeboren kinderen; leeftijd moeder, kenmerken kind</a>
+
+Relevant artikel:
+Informatie over de berekening van vruchtbaarheidscijfers van mannen is de vinden in het artikel <a href='https://www.cbs.nl/nl-nl/achtergrond/2011/39/vaders-gemiddeld-3-jaar-ouder-dan-moeders'>Vaders gemiddeld 3 jaar ouder dan moeders</a>.
+
+Algemene informatie over de bevolking is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/maatschappij/bevolking'>Bevolking</a>.
+
+4. BRONNEN EN METHODEN
+
+Lesbisch ouderschap
+Op 1 april 2014 is de wet lesbisch ouderschap in werking getreden. Sindsdien kan de vrouwelijke partner van de biologische moeder (‘duomoeder’) juridisch ouder worden zonder dat daarvoor een gerechtelijke adoptieprocedure nodig is. In de Basisregistratie personen worden voor kinderen die op of na de genoemde datum zijn geboren, over beide moeders dezelfde gegevens vastgelegd. Het CBS kan niet bepalen wie van beide moeders de biologische moeder is. Om toch de leeftijd van de moeder en andere kenmerken van de moeder, zoals migratieachtergrond en kindertal te bepalen, wordt willekeurig één van de twee ouders als moeder beschouwd. 
+Lesbisch ouderschap komt voor in minder dan 0,2 % van alle geboorten.
+
+Trendbreuk burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gehuwd, gescheiden en verweduwd).
+Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'partnerschap', 'verweduwd na partnerschap' en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was.
+Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Trendbreuk nagekomen berichten
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek.
+
+De onderzoeksmethode van deze tabel is te vinden in de Korte onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/bevolkingsstatistiek'>Bevolkingsstatistiek</a>.
+
+De gegevens in de tabel zijn vanaf 2014 samengesteld met behulp van het <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/stelsel-van-sociaal-statistische-bestanden--ssb--'>Stelsel van Sociaal-statistische Bestanden (SSB)</a>.
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.";"ts=1657874460010&graphtype=Table&r=Topics&k=Perioden";"$filter=((Perioden eq '1950JJ00') or (Perioden eq '1960JJ00') or (Perioden eq '1970JJ00') or (Perioden eq '1980JJ00') or (Perioden eq '1990JJ00') or (Perioden eq '2000JJ00') or (Perioden eq '2010JJ00') or (Perioden eq '2020JJ00') or (Perioden eq '2021JJ00'))&$select=Perioden, TotaalLevendGeborenKinderen_1, LevendGeborenKinderenRelatief_2, DoodgeborenKinderen24OfMeerWeken_29, DoodgeborenKinderen28OfMeerWeken_31, TotaalGeboorten_33, EnkelvoudigeGeboorten_34, TotaalMeervoudigeGeboorten_35, Bij1eKind_49, Bij1eKindVanDeMoeder_54";"Table,Bar,Line";"Regulier";"CBS.";"2022-07-27T02:00:00";"3"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"TimeDimension";"Perioden";"Perioden";;"false";;;;
+"1";;;"TopicGroup";"";"Levend geboren kinderen";"Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Lesbisch ouderschap:
+Op 1 april 2014 is de wet lesbisch ouderschap in werking getreden. Sindsdien kan de vrouwelijke partner van de biologische moeder (‘duomoeder’) juridisch ouder worden zonder dat daarvoor een gerechtelijke adoptieprocedure nodig is. In de Basisregistratie personen worden voor kinderen die op of na de genoemde datum zijn geboren, over beide moeders dezelfde gegevens vastgelegd. Het CBS kan niet bepalen wie van beide moeders de biologische moeder is. Om toch de leeftijd van de moeder en andere kenmerken van de moeder, zoals migratieachtergrond en kindertal te bepalen, wordt willekeurig één van de twee ouders als moeder beschouwd. 
+Lesbisch ouderschap komt voor in minder dan 0,2 % van alle geboorten.
+";;;;;
+"2";"1";"1";"Topic";"TotaalLevendGeborenKinderen_1";"Totaal levend geboren kinderen";;;"Long";"aantal";"0";"Impossible"
+"3";"2";"1";"Topic";"LevendGeborenKinderenRelatief_2";"Levend geboren kinderen, relatief";"Het aantal levend geboren kinderen per duizend van de gemiddelde bevolking.
+
+Gemiddelde bevolking:
+De helft van een bevolking aan het begin van een bepaalde periode plus de helft van die bevolking aan het eind van de periode.  ";;"Double";"per 1 000 inwoners";"1";"Impossible"
+"4";"3";"1";"Topic";"AlgemeenVruchtbaarheidscijfer_3";"Algemeen vruchtbaarheidscijfer";"Het aantal levend geboren kinderen per duizend van het gemiddeld aantal vrouwen van 15 tot 50 jaar.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder.";;"Double";"per 1 000";"1";"Impossible"
+"5";;"1";"TopicGroup";"";"Naar geslacht";;;;;;
+"6";"4";"5";"Topic";"TotaalLevendGeborenKinderen_4";"Totaal levend geboren kinderen";;;"Double";"aantal";"0";"Impossible"
+"7";"5";"5";"Topic";"Jongens_5";"Jongens";;;"Long";"aantal";"0";"Impossible"
+"8";"6";"5";"Topic";"Meisjes_6";"Meisjes";;;"Long";"aantal";"0";"Impossible"
+"9";"7";"5";"Topic";"JongensPer1000Meisjes_7";"Jongens per 1 000 meisjes";"Het aantal levend geboren jongens per duizend levend geboren meisjes.";;"Long";"per 1 000 meisjes";"0";"Impossible"
+"10";;"1";"TopicGroup";"";"Naar leeftijd van de moeder (op 31-12)";"Levend geboren kinderen naar leeftijd van de moeder (op 31 december).
+
+Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Leeftijd moeder:
+Leeftijd van de moeder op 31 december sinds de geboorte van haar  kind.
+Te berekenen als geboortejaar van het kind minus geboortejaar van de moeder.
+
+";;;;;
+"11";"8";"10";"Topic";"TotaalLevendGeborenKinderen_8";"Totaal levend geboren kinderen";;;"Long";"aantal";"0";"Impossible"
+"12";"9";"10";"Topic";"JongerDan20Jaar_9";"Jonger dan 20 jaar";;;"Long";"aantal";"0";"Impossible"
+"13";"10";"10";"Topic";"k_20Tot25Jaar_10";"20 tot 25 jaar";;;"Long";"aantal";"0";"Impossible"
+"14";"11";"10";"Topic";"k_25Tot30Jaar_11";"25 tot 30 jaar";;;"Long";"aantal";"0";"Impossible"
+"15";"12";"10";"Topic";"k_30Tot35Jaar_12";"30 tot 35 jaar";;;"Long";"aantal";"0";"Impossible"
+"16";"13";"10";"Topic";"k_35Tot40Jaar_13";"35 tot 40 jaar";;;"Long";"aantal";"0";"Impossible"
+"17";"14";"10";"Topic";"k_40Tot45Jaar_14";"40 tot 45 jaar";;;"Long";"aantal";"0";"Impossible"
+"18";"15";"10";"Topic";"k_45JaarOfOuder_15";"45 jaar of ouder";;;"Long";"aantal";"0";"Impossible"
+"19";;"1";"TopicGroup";"";"Naar volgorde van geboorte uit de moeder";"De positie van het kind in de rangorde van levend geboren kinderen uit de moeder.
+";;;;;
+"20";"16";"19";"Topic";"TotaalLevendGeborenKinderen_16";"Totaal levend geboren kinderen";;;"Long";"aantal";"0";"Impossible"
+"21";"17";"19";"Topic";"k_1eKind_17";"1e kind";"Levend geboren eerste kinderen uit de moeder.";;"Long";"aantal";"0";"Impossible"
+"22";"18";"19";"Topic";"k_2eKind_18";"2e kind";"Levend geboren tweede kinderen uit de moeder.";;"Long";"aantal";"0";"Impossible"
+"23";"19";"19";"Topic";"k_3eKind_19";"3e kind";"Levend geboren derde kinderen uit de moeder.";;"Long";"aantal";"0";"Impossible"
+"24";"20";"19";"Topic";"k_4eOfVolgendeKinderen_20";"4e of volgende kinderen";"Levend geboren vierde of volgende kinderen uit de moeder.";;"Long";"aantal";"0";"Impossible"
+"25";;"1";"TopicGroup";"";"Naar burgerlijke staat van de moeder";"Burgerlijke staat:
+Formele positie van een persoon waarbij wordt verwezen naar het huwelijk en het geregistreerd partnerschap.
+
+Trendbreuk
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gehuwd, gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'partnerschap', 'verweduwd na partnerschap' en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was. Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Ongehuwd:
+Vanaf 2010: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten of een geregistreerd partnerschap is aangegaan.
+1998 tot 2010: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten. 
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is partnerschap in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat 'partnerschap na ongehuwd' is meegeteld en dat voor de burgerlijke staten 'verweduwd na partnerschap' en 'gescheiden na partnerschap' de burgerlijke staat van vóór het partnerschap is gebruikt. Dat was meestal ongehuwd.
+Tot 1998: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten.
+
+Gehuwd:
+Vanaf 2010: wettig gehuwd plus partnerschap.
+1998 tot 2010: wettig gehuwd.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is partnerschap in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat partnerschap in deze periode niet is meegeteld.
+Tot 1998: wettig gehuwd.
+
+Wettig gehuwd:
+Burgerlijke staat die ontstaat na sluiting van een huwelijk. Inclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd.
+
+Partnerschap:
+Burgerlijke staat die ontstaat na het aangaan van een geregistreerd partnerschap.
+
+Verweduwd:
+Vanaf 2010: verweduwd na wettig huwelijk plus verweduwd na partnerschap.
+1998 tot 2010: verweduwd na wettig huwelijk.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is partnerschap in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat 'partnerschap na verweduwd' is meegeteld en dat voor 'verweduwd na partnerschap' de burgerlijke staat van vóór het partnerschap is gebruikt. Dat was meestal ongehuwd.
+Tot 1998: verweduwd na wettig huwelijk.
+
+Verweduwd na wettig huwelijk:
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door overlijden van de partner.
+
+Verweduwd na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap door overlijden van de partner.
+
+Gescheiden:
+Vanaf 2010: gescheiden na wettig huwelijk plus gescheiden na partnerschap.
+1998 tot 2010: gescheiden na wettig huwelijk.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is partnerschap in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat 'partnerschap na gescheiden' is meegeteld en dat voor 'gescheiden na partnerschap' de burgerlijke staat van vóór het partnerschap is gebruikt. Dat was meestal ongehuwd.
+Tot 1998: gescheiden na wettig huwelijk.
+
+Gescheiden na wettig huwelijk:
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door echtscheiding.
+Exclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd.
+
+Gescheiden na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap anders dan door het overlijden van de partner.
+
+Huwelijk:
+Wettelijke verbintenis tot het samenleven van twee personen.
+Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.
+
+Geregistreerd partnerschap:
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand.
+Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.";;;;;
+"26";"21";"25";"Topic";"TotaalLevendGeborenKinderen_21";"Totaal levend geboren kinderen";;;"Long";"aantal";"0";"Impossible"
+"27";"22";"25";"Topic";"MoederGehuwd_22";"Moeder gehuwd";"Levend geboren kinderen waarbij de moeder op het moment van geboorte gehuwd is, of levend geboren kinderen uit weduwen waarvan de echtgenoot (man of vrouw) maximaal 306 dagen vóór de geboorte is overleden.
+
+Gehuwd:
+Vanaf 2010: wettig gehuwd plus partnerschap.
+1998 tot 2010: wettig gehuwd.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is partnerschap in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat partnerschap in deze periode niet is meegeteld.
+Tot 1998: wettig gehuwd.
+
+Wettig gehuwd:
+Burgerlijke staat die ontstaat na sluiting van een huwelijk. Inclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd.
+
+Partnerschap:
+Burgerlijke staat die ontstaat na het aangaan van een geregistreerd partnerschap.";;"Long";"aantal";"0";"Impossible"
+"28";"23";"25";"Topic";"MoederNietGehuwd_23";"Moeder niet-gehuwd";"Levend geboren kinderen waarbij de moeder op het moment van de geboorte ongehuwd, verweduwd of gescheiden is. Uitzondering is als de moeder gehuwd is geweest en het huwelijk korter dan 306 dagen vóór de geboorte van het kind is ontbonden door het overlijden van haar echtgenoot. In dat geval wordt het kind geteld bij de gehuwde moeders.
+
+Ongehuwd:
+Vanaf 2010: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten of een geregistreerd partnerschap is aangegaan.
+1998 tot 2010: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten. 
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is partnerschap in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat 'partnerschap na ongehuwd' is meegeteld en dat voor de burgerlijke staten 'verweduwd na partnerschap' en 'gescheiden na partnerschap' de burgerlijke staat van vóór het partnerschap is gebruikt. Dat was meestal ongehuwd.
+Tot 1998: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten.
+
+Verweduwd:
+Vanaf 2010: verweduwd na wettig huwelijk plus verweduwd na partnerschap.
+1998 tot 2010: verweduwd na wettig huwelijk.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is partnerschap in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat 'partnerschap na verweduwd' is meegeteld en dat voor 'verweduwd na partnerschap' de burgerlijke staat van vóór het partnerschap is gebruikt. Dat was meestal ongehuwd.
+Tot 1998: verweduwd na wettig huwelijk.
+
+Verweduwd na wettig huwelijk:
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door overlijden van de partner.
+
+Verweduwd na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap door overlijden van de partner.
+
+Gescheiden:
+Vanaf 2010: gescheiden na wettig huwelijk plus gescheiden na partnerschap.
+1998 tot 2010: gescheiden na wettig huwelijk.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is partnerschap in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat 'partnerschap na gescheiden' is meegeteld en dat voor 'gescheiden na partnerschap' de burgerlijke staat van vóór het partnerschap is gebruikt. Dat was meestal ongehuwd.
+Tot 1998: gescheiden na wettig huwelijk.
+
+Gescheiden na wettig huwelijk:
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door echtscheiding.
+Exclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd.
+
+Gescheiden na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap anders dan door het overlijden van de partner.
+
+Huwelijk:
+Wettelijke verbintenis tot het samenleven van twee personen.
+Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.
+
+Geregistreerd partnerschap
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand.
+Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.";;"Long";"aantal";"0";"Impossible"
+"29";;"1";"TopicGroup";"";"Migratieachtergrond van de  moeder";"Beschikbaar vanaf 1996.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+Bij personen met een tweede generatie migratieachtergrond is er ook een onderscheid tussen personen met één of twee in het buitenland geboren ouders.
+
+Persoon met een eerste generatie migratieachtergrond:
+Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.
+
+Persoon met een tweede generatie migratieachtergrond:
+Persoon die in Nederland is geboren en van wie ten minste één ouder in het buitenland is geboren.
+
+
+
+";;;;;
+"30";"24";"29";"Topic";"TotaalLevendGeborenKinderen_24";"Totaal levend geboren kinderen";;;"Long";"aantal";"0";"Impossible"
+"31";"25";"29";"Topic";"PersoonMetEenNederlandseAchtergrond_25";"Persoon met een Nederlandse achtergrond";"Persoon met een Nederlandse achtergrond:
+Persoon van wie de beide ouders in Nederland zijn geboren, ongeacht het land waar men zelf is geboren.";;"Long";"aantal";"0";"Impossible"
+"32";"26";"29";"Topic";"PersoonMetEenMigratieachtergrond_26";"Persoon met een migratieachtergrond";"Persoon met een migratieachtergrond:
+Persoon van wie ten minste één ouder in het buitenland is geboren.";;"Long";"aantal";"0";"Impossible"
+"33";"27";"29";"Topic";"PersoonMetEenWesterseMigratieacht_27";"Persoon met een westerse migratieacht...";"Persoon met een westerse migratieachtergrond:
+Persoon met als migratieachtergrond een van de landen in Europa (exclusief Turkije), Noord-Amerika en Oceanië, en Indonesië en Japan.
+Op grond van hun sociaal- economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.
+
+
+Persoon met een migratieachtergrond:
+Persoon van wie ten minste één ouder in het buitenland is geboren.
+
+";;"Long";"aantal";"0";"Impossible"
+"34";"28";"29";"Topic";"PersoonMetEenNietWesterseMigrati_28";"Persoon met een niet-westerse migrati...";"Persoon met een niet-westerse migratieachtergrond:
+Persoon met als migratieachtergrond een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije.  
+Op grond van hun sociaal-economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.
+
+Persoon met een migratieachtergrond:
+Persoon van wie ten minste één ouder in het buitenland is geboren.
+
+";;"Long";"aantal";"0";"Impossible"
+"35";;;"TopicGroup";"";"Doodgeboren kinderen naar zwangerscha...";"Doodgeboren kinderen naar zwangerschapsduur.
+
+Doodgeboren kind:
+Kind dat na een zwangerschapsduur van ten minste 24 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft vertoond (ademhaling, hartactie, spieractie).
+
+Lesbisch ouderschap:
+Op 1 april 2014 is de wet lesbisch ouderschap in werking getreden. Sindsdien kan de vrouwelijke partner van de biologische moeder (‘duomoeder’) juridisch ouder worden zonder dat daarvoor een gerechtelijke adoptieprocedure nodig is. In de Basisregistratie personen worden voor kinderen die op of na de genoemde datum zijn geboren, over beide moeders dezelfde gegevens vastgelegd. Het CBS kan niet bepalen wie van beide moeders de biologische moeder is. Om toch de leeftijd van de moeder en andere kenmerken van de moeder, zoals herkomst en kindertal te bepalen, wordt willekeurig één van de twee ouders als moeder beschouwd. 
+Lesbisch ouderschap komt voor in minder dan 0,2 % van alle geboorten.
+";;;;;
+"36";"29";"35";"Topic";"DoodgeborenKinderen24OfMeerWeken_29";"Doodgeboren kinderen 24 of meer weken";"Doodgeboren kinderen na een zwangerschapsduur van ten minste 24 weken.
+Beschikbaar vanaf 1991.";;"Long";"aantal";"0";"Impossible"
+"37";"30";"35";"Topic";"DoodgeborenKinderen24Relatief_30";"Doodgeboren kinderen 24+, relatief";"Aantal doodgeboren kinderen per duizend geboren kinderen (levend geboren plus doodgeboren). Doodgeboren kinderen zijn geteld na een zwangerschap van ten minste 24 weken.
+Beschikbaar vanaf 1991.
+
+Doodgeboren kind:
+Kind dat na een zwangerschapsduur van ten minste 24 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft vertoond (ademhaling, hartactie, spieractie).
+
+Levend geboren kind:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"per 1 000 geboren kinderen";"1";"Impossible"
+"38";"31";"35";"Topic";"DoodgeborenKinderen28OfMeerWeken_31";"Doodgeboren kinderen 28 of meer weken";"Doodgeboren kinderen na een zwangerschapsduur van ten minste 28 weken.";;"Long";"aantal";"0";"Impossible"
+"39";"32";"35";"Topic";"DoodgeborenKinderen28Relatief_32";"Doodgeboren kinderen 28+, relatief";"Aantal doodgeboren kinderen per duizend geboren kinderen (levend geboren plus doodgeboren). Doodgeboren kinderen zijn geteld na een zwangerschap van 28 of meer weken.
+
+Doodgeboren kind:
+Kind dat na een zwangerschapsduur van 28 of meer weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft vertoond (ademhaling, hartactie, spieractie).
+
+Levend geboren kind:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"per 1 000 geboren kinderen";"1";"Impossible"
+"40";;;"TopicGroup";"";"Geboorten: één- en meerlingen";"Bevallingen met een zwangerschapsduur van 28 of meer weken, ongeacht de levensvatbaarheid van de kinderen.
+
+Lesbisch ouderschap:
+Op 1 april 2014 is de wet lesbisch ouderschap in werking getreden. Sindsdien kan de vrouwelijke partner van de biologische moeder (‘duomoeder’) juridisch ouder worden zonder dat daarvoor een gerechtelijke adoptieprocedure nodig is. In de Basisregistratie personen worden voor kinderen die op of na de genoemde datum zijn geboren, over beide moeders dezelfde gegevens vastgelegd. Het CBS kan niet bepalen wie van beide moeders de biologische moeder is. Om toch de leeftijd van de moeder en andere kenmerken van de moeder, zoals herkomst en kindertal te bepalen, wordt willekeurig één van de twee ouders als moeder beschouwd. 
+Lesbisch ouderschap komt voor in minder dan 0,2 % van alle geboorten.
+";;;;;
+"41";"33";"40";"Topic";"TotaalGeboorten_33";"Totaal geboorten";;;"Long";"aantal";"0";"Impossible"
+"42";"34";"40";"Topic";"EnkelvoudigeGeboorten_34";"Enkelvoudige geboorten";"Bevallingen waarbij één kind wordt geboren.";;"Long";"aantal";"0";"Impossible"
+"43";;"40";"TopicGroup";"";"Meervoudige geboorten";"Bevallingen van twee of meer kinderen (meerling) uit een zelfde zwangerschap.";;;;;
+"44";"35";"43";"Topic";"TotaalMeervoudigeGeboorten_35";"Totaal meervoudige geboorten";;;"Long";"aantal";"0";"Impossible"
+"45";;"43";"TopicGroup";"";"Tweelinggeboorten";"Bevallingen van twee kinderen uit een zelfde zwangerschap.";;;;;
+"46";"36";"45";"Topic";"TotaalTweelinggeboorten_36";"Totaal tweelinggeboorten";;;"Long";"aantal";"0";"Impossible"
+"47";"37";"45";"Topic";"k_2Jongens_37";"2 jongens";"Tweelinggeboorten van twee jongens.";;"Long";"aantal";"0";"Impossible"
+"48";"38";"45";"Topic";"k_1JongenEn1Meisje_38";"1 jongen en 1 meisje";"Tweelinggeboorten van één jongen en één meisje.";;"Long";"aantal";"0";"Impossible"
+"49";"39";"45";"Topic";"k_2Meisjes_39";"2 meisjes";"Tweelinggeboorten van twee meisjes.";;"Long";"aantal";"0";"Impossible"
+"50";"40";"43";"Topic";"DrieOfMeervoudigeGeboorten_40";"Drie- of meervoudige geboorten";"Bevallingen van drie of meer  kinderen uit een zelfde zwangerschap.";;"Long";"aantal";"0";"Impossible"
+"51";;;"TopicGroup";"";"Gemiddeld kindertal per vrouw";"Dit cijfer kan worden opgevat als het gemiddelde aantal kinderen dat een vrouw krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende haar leven zouden gelden.
+
+Leeftijdsspecifieke vruchtbaarheidscijfers:
+Het aantal levend geboren kinderen dat door vrouwen in een bepaalde leeftijdsgroep in een bepaalde periode wordt geboren gedeeld door het gemiddeld aantal vrouwen in die leeftijdsgroep en periode.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder.";;;;;
+"52";"41";"51";"Topic";"GemiddeldKindertalPerVrouw_41";"Gemiddeld kindertal per vrouw";"Dit cijfer kan worden opgevat als het gemiddelde aantal kinderen dat een vrouw krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende haar leven zouden gelden.
+
+Leeftijdsspecifieke vruchtbaarheidscijfers:
+Het aantal levend geboren kinderen dat door vrouwen in een bepaalde leeftijdsgroep in een bepaalde periode wordt geboren gedeeld door het gemiddeld aantal vrouwen in die leeftijdsgroep en periode.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder.";;"Double";"aantal";"3";"Impossible"
+"53";"42";"51";"Topic";"GemiddeldAantal1eKinderenPerVrouw_42";"Gemiddeld aantal 1e kinderen per vrouw";"Dit cijfer kan worden opgevat als het gemiddelde aantal eerste kinderen dat een vrouw krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende haar leven zouden gelden.
+
+Leeftijdsspecifieke vruchtbaarheidscijfers:
+Het aantal levend geboren (in dit geval eerste) kinderen dat door vrouwen in een bepaalde leeftijdsgroep in een bepaalde periode wordt geboren gedeeld door het gemiddeld aantal vrouwen in die leeftijdsgroep en periode.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder.";;"Double";"aantal";"3";"Impossible"
+"54";"43";"51";"Topic";"GemiddeldAantal2eKinderenPerVrouw_43";"Gemiddeld aantal 2e kinderen per vrouw";"Dit cijfer kan worden opgevat als het gemiddelde aantal tweede kinderen dat een vrouw krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende haar leven zouden gelden.
+
+Leeftijdsspecifieke vruchtbaarheidscijfers:
+Het aantal levend geboren (in dit geval tweede) kinderen dat door vrouwen in een bepaalde leeftijdsgroep in een bepaalde periode wordt geboren gedeeld door het gemiddeld aantal vrouwen in die leeftijdsgroep en periode.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder.";;"Double";"aantal";"3";"Impossible"
+"55";"44";"51";"Topic";"GemiddeldAantal3eKinderenPerVrouw_44";"Gemiddeld aantal 3e kinderen per vrouw";"Dit cijfer kan worden opgevat als het gemiddelde aantal derde kinderen dat een vrouw krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende haar leven zouden gelden.
+
+Leeftijdsspecifieke vruchtbaarheidscijfers:
+Het aantal levend geboren (in dit geval derde) kinderen dat door vrouwen in een bepaalde leeftijdsgroep in een bepaalde periode wordt geboren gedeeld door het gemiddeld aantal vrouwen in die leeftijdsgroep en periode.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder.";;"Double";"aantal";"3";"Impossible"
+"56";"45";"51";"Topic";"GemiddeldAantal4eOfVolgendeKind_45";"Gemiddeld aantal 4e of volgende kind...";"Gemiddeld aantal 4e of volgende kinderen per vrouw.
+
+Dit cijfer kan worden opgevat als het gemiddelde aantal vierde (of volgende) kinderen dat een vrouw krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende haar leven zouden gelden.
+
+Leeftijdsspecifieke vruchtbaarheidscijfers:
+Het aantal levend geboren (in dit geval vierde of volgende) kinderen dat door vrouwen in een bepaalde leeftijdsgroep in een bepaalde periode wordt geboren gedeeld door het gemiddeld aantal vrouwen in die leeftijdsgroep en periode.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder.";;"Double";"aantal";"3";"Impossible"
+"57";;;"TopicGroup";"";"Gemiddeld kindertal per man";"Dit cijfer kan worden opgevat als het gemiddelde aantal kinderen dat een man krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende zijn leven zouden gelden.
+Beschikbaar vanaf 1996.
+
+Leeftijdsspecifiek vruchtbaarheidscijfer:
+Levend geboren kinderen die in een bepaald jaar worden geboren van vaders in een bepaalde leeftijdsgroep gedeeld door het gemiddeld aantal mannen in die leeftijdsgroep in dat jaar.
+Van onbekende vaders is de leeftijd geschat.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de vader.
+Van onbekende vaders is de leeftijd geschat.
+
+";;;;;
+"58";"46";"57";"Topic";"GemiddeldKindertalPerMan_46";"Gemiddeld kindertal per man";"Dit cijfer kan worden opgevat als het gemiddelde aantal kinderen dat een man krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende zijn leven zouden gelden.
+
+Leeftijdsspecifiek vruchtbaarheidscijfer:
+Levend geboren kinderen die in een bepaald jaar worden geboren van vaders in een bepaalde leeftijdsgroep gedeeld door het gemiddeld aantal mannen in die leeftijdsgroep in dat jaar.
+Van onbekende vaders is de leeftijd geschat.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de vader.
+Van onbekende vaders is de leeftijd geschat.
+
+";;"Double";"aantal";"3";"Impossible"
+"59";"47";"57";"Topic";"GemiddeldAantal1eKinderenPerMan_47";"Gemiddeld aantal 1e kinderen per man";"Gemiddeld kindertal per man voor levend geboren eerste kinderen uit de moeder.
+Dit cijfer kan worden opgevat als het gemiddeld aantal eerste kinderen dat een man krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende zijn leven zouden gelden.
+
+Leeftijdsspecifiek vruchtbaarheidscijfer:
+Levend geboren kinderen die in een bepaald jaar worden geboren van vaders in een bepaalde leeftijdsgroep gedeeld door het gemiddeld aantal mannen in die leeftijdsgroep in dat jaar.
+Van onbekende vaders is de leeftijd geschat.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de vader.
+Van onbekende vaders is de leeftijd geschat.";;"Double";"aantal";"3";"Impossible"
+"60";;;"TopicGroup";"";"Gemiddelde leeftijd van de moeder";"Het rekenkundig gemiddelde van alle leeftijden van vrouwen die een levend geboren kind hebben gekregen.
+
+Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de moeder.";;;;;
+"61";"48";"60";"Topic";"TotaalAlleKinderen_48";"Totaal alle kinderen";"Gemiddelde leeftijd van de moeder voor alle levend geboren kinderen.
+
+Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"jaar";"1";"Impossible"
+"62";"49";"60";"Topic";"Bij1eKind_49";"Bij 1e kind";"Gemiddelde leeftijd van de moeder voor alle levend geboren eerste kinderen uit de moeder.
+
+Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"jaar";"1";"Impossible"
+"63";"50";"60";"Topic";"Bij2eKind_50";"Bij 2e kind";"Gemiddelde leeftijd van de moeder voor alle levend geboren tweede kinderen uit de moeder.
+
+Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"jaar";"1";"Impossible"
+"64";"51";"60";"Topic";"Bij3eKind_51";"Bij 3e kind";"Gemiddelde leeftijd van de moeder voor alle levend geboren derde kinderen uit de moeder.
+
+Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"jaar";"1";"Impossible"
+"65";"52";"60";"Topic";"Bij4eOfVolgendeKind_52";"Bij 4e of volgende kind";"Gemiddelde leeftijd van de moeder voor alle levend geboren vierde of volgende kinderen uit de moeder.
+
+Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"jaar";"1";"Impossible"
+"66";;;"TopicGroup";"";"Gemiddelde leeftijd van de vader";"Het rekenkundig gemiddelde van alle leeftijden van mannen die een levend geboren kind hebben gekregen.
+Beschikbaar vanaf 1996.
+
+Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van geboorte van het kind is verstreken sinds de geboortedatum van de vader.
+Van onbekende vaders is de leeftijd geschat.";;;;;
+"67";"53";"66";"Topic";"TotaalAlleKinderen_53";"Totaal alle kinderen";"Gemiddelde leeftijd van de vader voor alle levend geboren kinderen uit de moeder.";;"Double";"jaar";"1";"Impossible"
+"68";"54";"66";"Topic";"Bij1eKindVanDeMoeder_54";"Bij 1e kind van de moeder";"Gemiddelde leeftijd van de vader voor alle levend geboren eerste kinderen uit de moeder.";;"Double";"jaar";"1";"Impossible"
+"69";"55";;"Topic";"NettoVervangingsfactor_55";"Netto vervangingsfactor";"Het gemiddeld aantal dochters dat een groep vrouwen ter wereld zou brengen indien bepaalde leeftijdsspecifieke vruchtbaarheids- en sterftecijfers zouden gelden.
+De netto vervangingsfactor geeft de richting aan waarin de toekomstige bevolking zich zal ontwikkelen volgens de geboorte- en sterfteverhoudingen van vrouwen in de beschouwde periode. Als de waarde van dit cijfer over een lange reeks van jaren groter dan één is, zal de bevolking op den duur toenemen, bij een waarde kleiner dan één afnemen. De buitenlandse migratie van vrouwen is hierbij buiten beschouwing gelaten.
+
+Leeftijd:
+Het aantal gehele jaren dat op 31 december van het jaar van waarneming is verstreken sinds de geboortedatum van de persoon.";;"Double";"aantal";"2";"Impossible"
+"Perioden"
+Key;Title;Description;Status
+"1950JJ00";"1950";;"Definitief"
+"1951JJ00";"1951";;"Definitief"
+"1952JJ00";"1952";;"Definitief"
+"1953JJ00";"1953";;"Definitief"
+"1954JJ00";"1954";;"Definitief"
+"1955JJ00";"1955";;"Definitief"
+"1956JJ00";"1956";;"Definitief"
+"1957JJ00";"1957";;"Definitief"
+"1958JJ00";"1958";;"Definitief"
+"1959JJ00";"1959";;"Definitief"
+"1960JJ00";"1960";;"Definitief"
+"1961JJ00";"1961";;"Definitief"
+"1962JJ00";"1962";;"Definitief"
+"1963JJ00";"1963";;"Definitief"
+"1964JJ00";"1964";;"Definitief"
+"1965JJ00";"1965";;"Definitief"
+"1966JJ00";"1966";;"Definitief"
+"1967JJ00";"1967";;"Definitief"
+"1968JJ00";"1968";;"Definitief"
+"1969JJ00";"1969";;"Definitief"
+"1970JJ00";"1970";;"Definitief"
+"1971JJ00";"1971";;"Definitief"
+"1972JJ00";"1972";;"Definitief"
+"1973JJ00";"1973";;"Definitief"
+"1974JJ00";"1974";;"Definitief"
+"1975JJ00";"1975";;"Definitief"
+"1976JJ00";"1976";;"Definitief"
+"1977JJ00";"1977";;"Definitief"
+"1978JJ00";"1978";;"Definitief"
+"1979JJ00";"1979";;"Definitief"
+"1980JJ00";"1980";;"Definitief"
+"1981JJ00";"1981";;"Definitief"
+"1982JJ00";"1982";;"Definitief"
+"1983JJ00";"1983";;"Definitief"
+"1984JJ00";"1984";;"Definitief"
+"1985JJ00";"1985";;"Definitief"
+"1986JJ00";"1986";;"Definitief"
+"1987JJ00";"1987";;"Definitief"
+"1988JJ00";"1988";;"Definitief"
+"1989JJ00";"1989";;"Definitief"
+"1990JJ00";"1990";;"Definitief"
+"1991JJ00";"1991";;"Definitief"
+"1992JJ00";"1992";;"Definitief"
+"1993JJ00";"1993";;"Definitief"
+"1994JJ00";"1994";;"Definitief"
+"1995JJ00";"1995";;"Definitief"
+"1996JJ00";"1996";;"Definitief"
+"1997JJ00";"1997";;"Definitief"
+"1998JJ00";"1998";;"Definitief"
+"1999JJ00";"1999";;"Definitief"
+"2000JJ00";"2000";;"Definitief"
+"2001JJ00";"2001";;"Definitief"
+"2002JJ00";"2002";;"Definitief"
+"2003JJ00";"2003";;"Definitief"
+"2004JJ00";"2004";;"Definitief"
+"2005JJ00";"2005";;"Definitief"
+"2006JJ00";"2006";;"Definitief"
+"2007JJ00";"2007";;"Definitief"
+"2008JJ00";"2008";;"Definitief"
+"2009JJ00";"2009";;"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";;"Definitief"
+"2013JJ00";"2013";;"Definitief"
+"2014JJ00";"2014";;"Definitief"
+"2015JJ00";"2015";;"Definitief"
+"2016JJ00";"2016";;"Definitief"
+"2017JJ00";"2017";;"Definitief"
+"2018JJ00";"2018";;"Definitief"
+"2019JJ00";"2019";;"Definitief"
+"2020JJ00";"2020";;"Definitief"
+"2021JJ00";"2021";;"Definitief"
