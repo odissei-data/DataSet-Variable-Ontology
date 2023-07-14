@@ -10,7 +10,7 @@
 # DataSet-Variable Ontology
 ###########################################
 
-<http://www.example.org/datasetVariableOntology/>       a       owl:Ontology .
+<https://w3id.org/dsv-ontology#>            a       owl:Ontology .
 
 ###########################################
 # Classes

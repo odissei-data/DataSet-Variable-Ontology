@@ -44,7 +44,7 @@
                                                                                 dsv:refersToVariable            var:YearCoverage ;
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "1.00"^^xsd:float ;
-                                                                                    dsv:statisticalDataType         "Numerical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Ratio ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/rgn20cd>         a                               dsv:DimensionComponent ,
@@ -55,7 +55,7 @@
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "0.89"^^xsd:float ;
                                                                                     dsv:missingValuesFormat         "NA"^^xsd:string ;
-                                                                                    dsv:statisticalDataType         "Categorical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Nominal ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/rgn20nm>         a                               dsv:DimensionComponent ,
@@ -66,7 +66,7 @@
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "0.89"^^xsd:float ;
                                                                                     dsv:missingValuesFormat         "NA"^^xsd:string ;
-                                                                                    dsv:statisticalDataType         "Categorical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Nominal ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/lad20cd>         a                               dsv:DimensionComponent ,
@@ -76,7 +76,7 @@
                                                                                 dsv:refersToVariable            var:GeoLocation ;
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "1.00"^^xsd:float ;
-                                                                                    dsv:statisticalDataType         "Categorical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Nominal ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/lad20nm>         a                               dsv:DimensionComponent ,
@@ -86,7 +86,7 @@
                                                                                 dsv:refersToVariable            var:GeoLocation ;
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "1.00"^^xsd:float ;
-                                                                                    dsv:statisticalDataType         "Categorical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Nominal ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/wd20cd>          a                               dsv:DimensionComponent ,
@@ -96,7 +96,7 @@
                                                                                 dsv:refersToVariable            var:GeoLocation ;
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "1.00"^^xsd:float ;
-                                                                                    dsv:statisticalDataType         "Categorical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Nominal ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/wd20nm>          a                               dsv:DimensionComponent ,
@@ -106,7 +106,7 @@
                                                                                 dsv:refersToVariable            var:GeoLocation ;
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "1.00"^^xsd:float ;
-                                                                                    dsv:statisticalDataType         "Categorical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Nominal ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/ageOfMother>     a                               dsv:DimensionComponent ,
@@ -116,7 +116,7 @@
                                                                                 dsv:refersToVariable            var:Age ;
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "1.00"^^xsd:float ;
-                                                                                    dsv:statisticalDataType         "Categorical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Nominal ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/sex>             a                               dsv:DimensionComponent ,
@@ -126,7 +126,7 @@
                                                                                 dsv:refersToVariable            var:Gender ;
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "1.00"^^xsd:float ;
-                                                                                    dsv:statisticalDataType         "Categorical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Nominal ;
                                                                                 ] .
 
 <http://www.uk-open-data.org/example-aggregated-dataset/column/births>          a                               dsv:DimensionComponent ,
@@ -136,7 +136,7 @@
                                                                                 dsv:refersToVariable            var:Birth ;
                                                                                 dsv:summaryStatistics           [
                                                                                     dsv:completeness                "1.00"^^xsd:float ;
-                                                                                    dsv:statisticalDataType         "Numerical"@en ;
+                                                                                    dsv:statisticalDataType         dsv:Ratio ;
                                                                                 ] .
 
 ###########################################

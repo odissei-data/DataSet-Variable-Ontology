@@ -36,7 +36,7 @@
                                                                                             dsv:refersToVariable        var:YearCoverage ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "1.00"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Ratio ;
                                                                                             ] .
 
 <http://www.usa-open-data.org/example-aggregated-dataset/column/BirthNumber>                a                           dsv:DimensionComponent ,
@@ -46,7 +46,7 @@
                                                                                             dsv:refersToVariable        var:Birth ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "1.00"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Ratio ;
                                                                                             ] .
 
 <http://www.usa-open-data.org/example-aggregated-dataset/column/GeneralFertilityRate>       a                           dsv:DimensionComponent ,
@@ -56,7 +56,7 @@
                                                                                             dsv:refersToVariable        var:FertilityRate ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "1.00"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Ratio ;
                                                                                             ] .
 
 <http://www.usa-open-data.org/example-aggregated-dataset/column/CrudeBirthRate>             a                           dsv:DimensionComponent ,
@@ -66,7 +66,7 @@
                                                                                             dsv:refersToVariable        var:Birth ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "1.00"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Ratio ;
                                                                                             ] .
 
 ###########################################

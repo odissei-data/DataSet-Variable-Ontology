@@ -46,7 +46,7 @@
                                                                                                         dsv:refersToVariable            var:YearCoverage ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Ratio ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/totaalLevendGeborenKinderen_1>           a                               dsv:DimensionComponent ,
@@ -57,7 +57,7 @@
                                                                                                         dsv:refersToVariable            var:LiveBirth ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Ratio ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/algemeenVruchtbaarheidscijfer_3>         a                               dsv:DimensionComponent ,
@@ -68,7 +68,7 @@
                                                                                                         dsv:refersToVariable            var:FertilityRate ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Ratio ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/jongerDan20Jaar_9>                       a                               dsv:DimensionComponent ,
@@ -79,7 +79,7 @@
                                                                                                         dsv:refersToVariable            var:Age ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Nominal ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/k_20Tot25Jaar_10>                        a                               dsv:DimensionComponent ,
@@ -90,7 +90,7 @@
                                                                                                         dsv:refersToVariable            var:Age ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Nominal ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/k_25Tot30Jaar_11>                        a                               dsv:DimensionComponent ,
@@ -101,7 +101,7 @@
                                                                                                         dsv:refersToVariable            var:Age ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Nominal ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/k_30Tot35Jaar_12>                        a                               dsv:DimensionComponent ,
@@ -112,7 +112,7 @@
                                                                                                         dsv:refersToVariable            var:Age ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Nominal ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/k_35Tot40Jaar_13>                        a                               dsv:DimensionComponent ,
@@ -123,7 +123,7 @@
                                                                                                         dsv:refersToVariable            var:Age ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Nominal ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/k_40Tot45Jaar_14>                        a                               dsv:DimensionComponent ,
@@ -134,7 +134,7 @@
                                                                                                         dsv:refersToVariable            var:Age ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Nominal ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/k_45JaarOfOuder_15>                      a                               dsv:DimensionComponent ,
@@ -145,7 +145,7 @@
                                                                                                         dsv:refersToVariable            var:Age ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Nominal ;
                                                                                                         ] .
 
 <http://www.nl-open-data.org/example-aggregated-dataset/column/totaalGeboorten_33>                      a                               dsv:DimensionComponent ,
@@ -156,7 +156,7 @@
                                                                                                         dsv:refersToVariable            var:Birth ;
                                                                                                         dsv:summaryStatistics           [
                                                                                                                 dsv:completeness                "1.00"^^xsd:float ;
-                                                                                                                dsv:statisticalDataType         "Numerical"@en ;
+                                                                                                                dsv:statisticalDataType         dsv:Ratio ;
                                                                                                         ] .
 
 ###########################################

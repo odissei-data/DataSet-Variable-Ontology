@@ -38,7 +38,7 @@
                                                                                             dsv:refersToVariable        var:YearCoverage ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "1.00"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Ratio ;
                                                                                             ] .
 
 <http://www.canada-open-data.org/example-aggregated-dataset/column/geo>                     a                           dsv:DimensionComponent ,
@@ -48,7 +48,7 @@
                                                                                             dsv:refersToVariable        var:GeoLocation ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "1.00"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Categorical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Nominal ;
                                                                                             ] .
 
 <http://www.canada-open-data.org/example-aggregated-dataset/column/ageGroup>                a                           dsv:DimensionComponent ,
@@ -58,7 +58,7 @@
                                                                                             dsv:refersToVariable        var:Age ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "1.00"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Categorical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Nominal ;
                                                                                             ] .
 
 <http://www.canada-open-data.org/example-aggregated-dataset/column/pregnancyOutcomes>       a                           dsv:DimensionComponent ,
@@ -68,7 +68,7 @@
                                                                                             dsv:refersToVariable        var:PregnancyOutcome ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "1.00"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Categorical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Nominal ;
                                                                                             ] .
 
 <http://www.canada-open-data.org/example-aggregated-dataset/column/value>                   a                           dsv:DimensionComponent ,
@@ -78,7 +78,7 @@
                                                                                             dsv:refersToVariable        var:Birth ;
                                                                                             dsv:summaryStatistics       [
                                                                                                 dsv:completeness            "0.97"^^xsd:float ;
-                                                                                                dsv:statisticalDataType     "Numerical"@en ;
+                                                                                                dsv:statisticalDataType     dsv:Ratio ;
                                                                                                 dsv:missingValuesFormat     "NA"^^xsd:string
                                                                                             ] .
 
